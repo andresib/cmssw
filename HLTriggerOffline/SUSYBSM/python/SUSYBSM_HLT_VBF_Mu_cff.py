@@ -86,6 +86,7 @@ SUSY_HLT_Mu_VBF = cms.Sequence( SUSY_HLT_Mu10_VBF +
                                 SUSY_HLT_Mu8_VBF
                                 )
 
+
 SUSY_HLT_Mu_VBF_POSTPROCESSING = cms.Sequence( SUSY_HLT_Mu10_VBF_POSTPROCESSING +
                                                SUSY_HLT_Mu8_VBF_POSTPROCESSING
                                                )
